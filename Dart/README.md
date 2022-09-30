@@ -1,2 +1,2 @@
 # DART
-Dart is used in flutter language.
+Dart is used in flutter.
